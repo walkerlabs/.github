@@ -1,8 +1,6 @@
 ![logo](https://walkerworld-cdn.fra1.digitaloceanspaces.com/github/github-banner.png)
 
-# Walker World
-
-Walker World aims to empower players through true ownership and interoperability of digital assets. Our goal is to be an open experience where other avatars and projects easily can take part of our ever expanding world.
+Walker Labs is an independent, venture-backed video game and next-gen web technology developer. Our strategy is to combine AAA experienced veterans from DICE, Epic Games, Microsoft, Mojang, Ubisoft, Remedy, Sony and EA – with best in class Web Tech developers, to create never-seen-before experiences in gaming and digital social spaces.
 
 -----------
 
